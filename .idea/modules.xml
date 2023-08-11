@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MadfoatSample_androidx.iml" filepath="$PROJECT_DIR$/.idea/modules/MadfoatSample_androidx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MadfoatSample_androidx.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MadfoatSample_androidx.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MadfoatSample_androidx.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MadfoatSample_androidx.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MadfoatSample_androidx.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MadfoatSample_androidx.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MadfoatSample_androidx.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MadfoatSample_androidx.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/madfoatsdklib/MadfoatSample_androidx.madfoatsdklib.iml" filepath="$PROJECT_DIR$/.idea/modules/madfoatsdklib/MadfoatSample_androidx.madfoatsdklib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/madfoatsdklib/MadfoatSample_androidx.madfoatsdklib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/madfoatsdklib/MadfoatSample_androidx.madfoatsdklib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/madfoatsdklib/MadfoatSample_androidx.madfoatsdklib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/madfoatsdklib/MadfoatSample_androidx.madfoatsdklib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/madfoatsdklib/MadfoatSample_androidx.madfoatsdklib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/madfoatsdklib/MadfoatSample_androidx.madfoatsdklib.unitTest.iml" />
+    </modules>
+  </component>
+</project>
